@@ -1,1 +1,1 @@
-# odin-to-do-list
+This is a sample of a restaurant page and the tenth exercise following The Odin Project course. Skills: HTML, CSS, Flexbox.
